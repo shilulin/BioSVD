@@ -1,4 +1,3 @@
-<div align="center">
 <h2>BioSVD: a Rapid 3D Biomedical Optical Imaging Technique via Stable Video Diffusion</h2>
 
 ## Dataset
